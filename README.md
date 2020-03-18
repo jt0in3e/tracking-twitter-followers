@@ -1,4 +1,7 @@
-# twitter-followers-tracker
+> This repo is duplicated from @IgnoredAmbience's [repos](https://github.com/IgnoredAmbience/twitter-followers-tracker).
+> Details how to use and how to set up see below
+
+## twitter-followers-tracker
 
 Tracking my twitter followings, followers, and whether they surreptitiously change their handles or identities.
 
