@@ -20,6 +20,6 @@ Repository inspired by @simonw's [disaster-scrapers](https://github.com/simonw/d
    | `TWITTER_CONSUMER_KEY` | Consumer API Key |
    | `TWITTER_CONSUMER_SECRET` | Consumer API Secret Key |
    | `TWITTER_ACCESS_TOKEN` | Access Token |
-   | `TWITTER_ACCESS_SECRET` | Access Token Secret |
+   | `TWITTER_ACCESS_TOKEN_SECRET` | Access Token Secret |
 
 5. The script will be run automatically every hour, or on push to the `code` branch.
