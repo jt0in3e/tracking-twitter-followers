@@ -55,10 +55,6 @@ if __name__ == "__main__":
 
     (TwitterScraper.owner, TwitterScraper.repo) = os.environ.get('GITHUB_REPOSITORY').split('/')
     
-    print(os.environ)
-    
-    print(os.environ.get('TWITTER_CONSUMER_KEY'))
-
     api = twitter.Api(consumer_key=os.environ.get('TWITTER_CONSUMER_KEY'),
                       consumer_secret=os.environ.get('TWITTER_CONSUMER_SECRET'),
                       access_token_key=os.environ.get('TWITTER_ACCESS_TOKEN'),
