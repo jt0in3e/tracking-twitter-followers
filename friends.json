@@ -565,8 +565,8 @@
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
     "profile_banner_url": "https://pbs.twimg.com/profile_banners/3957527794/1578630673",
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1254486992626335747/wR3WnBAg_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254486992626335747/wR3WnBAg_normal.jpg",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1258837889846214656/eDjEK3yo_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1258837889846214656/eDjEK3yo_normal.jpg",
     "profile_link_color": "1DA1F2",
     "profile_sidebar_border_color": "C0DEED",
     "profile_sidebar_fill_color": "DDEEF6",
@@ -707,7 +707,7 @@
   },
   {
     "created_at": "Wed Dec 12 20:00:00 +0000 2018",
-    "description": "divine violence.\n#infosec engineer | genetic scientist | tactical specialist\ni also shitpost a lot. \ncan be bribed with #coffee or #whiskey",
+    "description": "#infosec engineer | genetic scientist | tactical specialist | thirst trap\ni also shitpost a lot. \ncan be bribed with #coffee or #whiskey",
     "following": true,
     "geo_enabled": true,
     "id": 1072944174448685063,
@@ -1213,7 +1213,7 @@
   },
   {
     "created_at": "Tue May 05 07:30:51 +0000 2015",
-    "description": "Incident Response | Threat Intelligence | Try it out.",
+    "description": "Incident Response | Threat Intelligence",
     "following": true,
     "id": 3185889936,
     "id_str": "3185889936",
