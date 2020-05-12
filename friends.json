@@ -31,7 +31,7 @@
     "id": 67136173,
     "id_str": "67136173",
     "location": "IA",
-    "name": "25th Amendment Time \ud83d\ude37",
+    "name": "Test, Trace, Isolate \ud83d\ude37",
     "profile_background_color": "171617",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
@@ -45,7 +45,7 @@
     "profile_text_color": "000BAA",
     "profile_use_background_image": true,
     "screen_name": "jdrch",
-    "url": "https://t.co/YahhEdUff5"
+    "url": "https://t.co/YahhEdCDQv"
   },
   {
     "created_at": "Sat Sep 05 20:31:49 +0000 2009",
@@ -728,7 +728,6 @@
   },
   {
     "created_at": "Sun May 12 01:00:45 +0000 2019",
-    "description": "null",
     "following": true,
     "id": 1127378043067146240,
     "id_str": "1127378043067146240",
