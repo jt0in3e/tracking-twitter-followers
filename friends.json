@@ -685,7 +685,7 @@
   },
   {
     "created_at": "Wed Dec 12 20:00:00 +0000 2018",
-    "description": "#infosec engineer | genetic scientist | tactical specialist | \ni also shitpost a lot. \ni like to lift weights & pet dogs.\ncan be bribed with #coffee or #whiskey",
+    "description": "#infosec engineer | genetic scientist | \n*\"at most a body positivity charity case\"*\ni like to lift weights & pet dogs.\ncan be bribed with #coffee or #whiskey",
     "following": true,
     "geo_enabled": true,
     "id": 1072944174448685063,
@@ -839,7 +839,7 @@
     "id": 2281370629,
     "id_str": "2281370629",
     "location": "California",
-    "name": "NahamSec @ Defcon Red Team Village",
+    "name": "NahamSec",
     "profile_background_color": "131516",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
