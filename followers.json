@@ -1,26 +1,5 @@
 [
   {
-    "created_at": "Sun Jul 13 04:35:50 +0000 2008",
-    "description": "Author, Instructor, & Independent Consultant. Author of C# Cookbook:\n\n  - https://t.co/b436r6hCUK - @OReillyMedia\n\n#ai #chatbots #csharp #linq2twitter #twitterapi",
-    "geo_enabled": true,
-    "id": 15411837,
-    "id_str": "15411837",
-    "location": "Las Vegas, NV",
-    "name": "Joe Mayo",
-    "profile_background_color": "FFFFFF",
-    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
-    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
-    "profile_banner_url": "https://pbs.twimg.com/profile_banners/15411837/1527911283",
-    "profile_image_url": "http://pbs.twimg.com/profile_images/1185764990403268613/8GoXoOtz_normal.jpg",
-    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1185764990403268613/8GoXoOtz_normal.jpg",
-    "profile_link_color": "FF691F",
-    "profile_sidebar_border_color": "FFFFFF",
-    "profile_sidebar_fill_color": "F6FFD1",
-    "profile_text_color": "333333",
-    "screen_name": "JoeMayo",
-    "url": "https://t.co/Y6dXyWxanS"
-  },
-  {
     "created_at": "Thu Aug 22 14:16:48 +0000 2019",
     "default_profile": true,
     "description": "Java backend developer, student of data science and data engineering",
