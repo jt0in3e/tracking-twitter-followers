@@ -1,7 +1,7 @@
 [
   {
     "created_at": "Thu Nov 20 03:10:21 +0000 2008",
-    "description": "CEO @thisdotlabs (hire us for dev work!), Keynote Spker, RxJS Core, GoogleDevExpert @angular, MSFT MVP, @moderndotweb, Serial Entrepreneur (1 exit), Investor",
+    "description": "CEO @thisdotlabs (hire us for engineering!), Keynote Spker, RxJS Core, GoogleDevExpert @angular, MSFT MVP, @moderndotweb, Entrepreneur (1 exit), Angel Investor",
     "following": true,
     "geo_enabled": true,
     "id": 17503069,
@@ -273,7 +273,7 @@
   {
     "created_at": "Sun Apr 27 20:19:25 +0000 2008",
     "default_profile": true,
-    "description": "Creator of Ruby on Rails, Founder & CTO at Basecamp & HEY, NYT best-selling author, and Le Mans 24h class-winning racing driver.",
+    "description": "Creator of Ruby on Rails, Founder & CTO at Basecamp & HEY, NYT best-selling author, and Le Mans 24h class-winning racing driver. No DMs, email: david@hey.com.",
     "following": true,
     "id": 14561327,
     "id_str": "14561327",
@@ -562,7 +562,6 @@
     "geo_enabled": true,
     "id": 2471560705,
     "id_str": "2471560705",
-    "location": "(-2687.048,-4304.559,3851.158)",
     "name": "Bhav Ashok",
     "profile_background_color": "000000",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
