@@ -239,7 +239,7 @@
     "geo_enabled": true,
     "id": 2341615700,
     "id_str": "2341615700",
-    "location": "Not Parler",
+    "location": "Home",
     "name": "Jake Creps",
     "profile_background_color": "C0DEED",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
@@ -779,7 +779,7 @@
   },
   {
     "created_at": "Fri Mar 06 17:16:03 +0000 2009",
-    "description": "Linux Evangelist. Malwares. Kernel Dev. Security Enthusiast.  Jain , Meditation , Reformist & Philanthropist. binitamshah at protonmail dot com",
+    "description": "Linux Evangelist. Malwares. Kernel Dev. Security Enthusiast.\nJain,meditation ,reformist & philanthropist. binitamshah at protonmail dot com",
     "following": true,
     "id": 23090019,
     "id_str": "23090019",
@@ -1262,7 +1262,7 @@
   },
   {
     "created_at": "Sat Jan 24 08:22:33 +0000 2009",
-    "description": "Engineer by trade, artist at heart. \ud83c\udff4\u200d\u2620\ufe0f Grateful to have built products at Bridgewater, Snap, Postmates, Secret, Medium, Square, and Google. #AlwaysBeCoding",
+    "description": "Engineer by trade, artist at heart. \ud83c\udff4\u200d\u2620\ufe0f Google, Square, Postmates, Bridgewater, Secret, Medium alum and former game dev. #AlwaysBeCoding",
     "following": true,
     "geo_enabled": true,
     "id": 19436496,
