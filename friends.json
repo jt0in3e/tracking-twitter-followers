@@ -95,7 +95,7 @@
   },
   {
     "created_at": "Mon Jan 23 06:11:50 +0000 2017",
-    "description": "Coffee, Code, Cabins. \nMedical hardware industry (...leaving). \nAlso on https://t.co/JTO0Xlesus",
+    "description": "Coffee, Code, Cabins. Medical hardware industry (...leaving)",
     "following": true,
     "id": 823412906859622400,
     "id_str": "823412906859622400",
@@ -233,7 +233,7 @@
   {
     "created_at": "Thu Feb 13 08:19:43 +0000 2014",
     "default_profile": true,
-    "description": "Search, #OSINT, and investigations | Website is currently down while I reorganize a few things | Venturing into CTI",
+    "description": "Search, #OSINT, and investigations | Venturing into CTI",
     "following": true,
     "geo_enabled": true,
     "id": 2341615700,
