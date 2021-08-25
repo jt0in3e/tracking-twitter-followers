@@ -194,7 +194,7 @@
     "id": 3008791,
     "id_str": "3008791",
     "location": "Berlin, Germany",
-    "name": "Charles \u201cSuper Nice\u201d Vestal",
+    "name": "Charles \u201cSuper Hell\u201d Vestal",
     "profile_background_color": "DBE9ED",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
     "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
@@ -1234,6 +1234,7 @@
     "profile_sidebar_fill_color": "000000",
     "profile_text_color": "000000",
     "profile_use_background_image": true,
+    "protected": true,
     "screen_name": "fouroctets",
     "withheld_in_countries": []
   },
