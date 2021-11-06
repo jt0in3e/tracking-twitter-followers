@@ -964,12 +964,12 @@
   },
   {
     "created_at": "Fri Dec 21 22:39:15 +0000 2007",
-    "description": "Founder @Pitch, @SuperlistHQ, @Wunderlist / Partner @freigeist / Investor (Lilium, Notion, Onefootball, Rows, Dance, Xentral, Acapela & more)",
+    "description": "Founder @Pitch, @SuperlistHQ, @Wunderlist / Investor (Lilium, Notion, Heyflow, Rows, Dance, Xentral, Acapela, Crew, Magicbell & more)",
     "following": true,
     "geo_enabled": true,
     "id": 11418222,
     "id_str": "11418222",
-    "location": "Berlin, Earth",
+    "location": "Berlin",
     "name": "Christian Reber",
     "profile_background_color": "FFFFFF",
     "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
@@ -984,6 +984,7 @@
     "profile_text_color": "6F6F6F",
     "profile_use_background_image": true,
     "screen_name": "christianreber",
+    "url": "https://t.co/Nrj6VppVaZ",
     "verified": true,
     "withheld_in_countries": []
   },
