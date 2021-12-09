@@ -1504,6 +1504,7 @@
     "created_at": "Mon Feb 12 12:34:47 +0000 2007",
     "description": "EU Citizen. I make stuff. Personal account, my tweets are in no shape or form official Arduino statements. Tweeting a link doesn't endorse its content.",
     "following": true,
+    "geo_enabled": true,
     "id": 767285,
     "id_str": "767285",
     "location": "Repubblica e Cantone Ticino",
